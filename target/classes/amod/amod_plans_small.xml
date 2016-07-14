@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE population SYSTEM "http://www.matsim.org/files/dtd/population_v5.dtd">
+ 
+<population>	
+	<person id="19">
+        <plan selected="yes">
+            <act end_time="18:00:00" link="703" type="dummy"/>
+            <leg arr_time="18:01:00" dep_time="18:00:00" mode="taxi" trav_time="00:01:00">
+                <route/>
+            </leg>
+            <act link="617" type="dummy"/>
+        </plan>
+    </person>
+
+    <person id="2672">
+        <plan selected="yes">
+            <act end_time="18:06:54" link="447" type="dummy"/>
+            <leg arr_time="18:07:54" dep_time="18:06:54" mode="taxi" trav_time="00:01:00">
+                <route/>
+            </leg>
+            <act link="254" type="dummy"/>
+        </plan>
+    </person>
+
+    <person id="10796">
+        <plan selected="yes">
+            <act end_time="18:26:42" link="301" type="dummy"/>
+            <leg arr_time="18:27:42" dep_time="18:26:42" mode="taxi" trav_time="00:01:00">
+                <route/>
+            </leg>
+            <act link="479" type="dummy"/>
+        </plan>
+    </person>
+
+    <person id="29918">
+        <plan selected="yes">
+            <act end_time="19:07:54" link="648" type="dummy"/>
+            <leg arr_time="19:08:54" dep_time="19:07:54" mode="taxi" trav_time="00:01:00">
+                <route/>
+            </leg>
+            <act link="827" type="dummy"/>
+        </plan>
+    </person>
+
+     <person id="37789">
+        <plan selected="yes">
+            <act end_time="19:23:37" link="701" type="dummy"/>
+            <leg arr_time="19:24:37" dep_time="19:23:37" mode="taxi" trav_time="00:01:00">
+                <route/>
+            </leg>
+            <act link="784" type="dummy"/>
+        </plan>
+    </person>
+
+</population>
